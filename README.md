@@ -26,11 +26,6 @@ Your `claude-chatbot.html` is now live at:
 https://project-1-ai-chatbot.vercel.app/claude-chatbot.html
 ```
 
----
-
-## **STEP 4: Post on LinkedIn (2 min)**
-```
-🚀 Day 1 Complete: Built a working AI chatbot!
 
 Created a professional Claude chatbot interface that:
 ✓ Connects to Anthropic Claude API
